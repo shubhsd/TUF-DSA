@@ -1,1 +1,2 @@
- 
+This is string
+and you are amazing
