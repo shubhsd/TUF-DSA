@@ -2,7 +2,7 @@
   "version": "2.0.0",
   "tasks": [
     {
-      "label": "Run C++",
+      "label": "Run C++ code",
       "type": "shell",
       "command": "g++ -std=c++17 \"${file}\" -o \"${fileBasenameNoExtension}\" && \"${fileDirname}/${fileBasenameNoExtension}\" < \"${workspaceFolder}/input.txt\" > \"${workspaceFolder}/output.txt\" 2>&1",
       "options": {
@@ -11,7 +11,7 @@
       "group": "build"
     },
     {
-      "label": "Run Java",
+      "label": "Run Java code",
       "type": "shell",
       "command": "if [ \"${fileExtname}\" = \".java\" ]; then javac \"${file}\" && java -cp \"${fileDirname}\" \"${fileBasenameNoExtension}\"; elif [ \"${fileExtname}\" = \".class\" ]; then java -cp \"${fileDirname}\" \"${fileBasenameNoExtension}\"; else echo 'Open a .java or .class file for Run Java task' && exit 1; fi < \"${workspaceFolder}/input.txt\" > \"${workspaceFolder}/output.txt\" 2>&1",
       "options": {

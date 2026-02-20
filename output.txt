@@ -1,3 +1,1 @@
-100 ARRAY 0 IS
-6
-Pass by reference num -> 16
+Hello java
