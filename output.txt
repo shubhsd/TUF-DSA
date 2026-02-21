@@ -1,7 +1,3 @@
-Hello world
-Hello world Length is 11
-e
-Hello world
-llo world
-Hello
-Shubham Sood
+SHubham Sood
+num->10
+doublenum-> 10.11
