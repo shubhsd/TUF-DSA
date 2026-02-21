@@ -7,7 +7,7 @@ public class Operators {
         int num4 = num1 - num2;
         int num5 = num1 / num2;
         int num6 = num1 * num2;
-        int num7 = num1 % num2;
+        int num7 = num1 % num2; // -> modulo operator gives remainder
         System.out.println(num6);
         System.out.println(num7);
         System.out.println(num3);

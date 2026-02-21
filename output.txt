@@ -1,5 +1,7 @@
-30
-5
-11
--1
-0
+Hello world
+Hello world Length is 11
+e
+Hello world
+llo world
+Hello
+Shubham Sood
