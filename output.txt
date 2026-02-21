@@ -1,3 +1,2 @@
-SHubham Sood
-num->10
-doublenum-> 10.11
+10.0
+10
