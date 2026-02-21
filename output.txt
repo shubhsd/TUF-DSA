@@ -1,2 +1,3 @@
-4
-5 <- Length of given array
+12 
+13 
+14 
