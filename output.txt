@@ -1,3 +1,2 @@
-12 
-13 
-14 
+Inside exception-> java.lang.ArithmeticException: / by zero
+DONE
