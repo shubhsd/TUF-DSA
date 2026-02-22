@@ -1,4 +1,1 @@
-Balance is 100.0
-Your account type is - Current
-Balance is 5000.0
-Your account type is - Savings
+Balance is 0.0
