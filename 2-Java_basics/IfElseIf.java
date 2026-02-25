@@ -33,5 +33,6 @@ class IfElseIf {
 
         // Function call to print the grades based on marks
         solution.studentGrade(marks);
+        sc.close();
     }
 }
