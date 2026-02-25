@@ -1,1 +1,1 @@
-Enter your age: Adult
+Enter your marks: Fail
