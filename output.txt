@@ -1,1 +1,1 @@
-Enter your marks: Fail
+Enter the day number: Tuesday
