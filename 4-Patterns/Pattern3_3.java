@@ -12,7 +12,6 @@ public class Pattern3_3 {
 
     public static void main(String[] args) {
         int N = 5;
-
         Pattern3_3.pattern3(N); // Call static method using class name
     }
 }
