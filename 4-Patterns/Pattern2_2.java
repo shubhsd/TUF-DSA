@@ -7,6 +7,7 @@ class Pattern2_2 {
             System.out.println();
         }
     }
+    
     public static void main(String[] args) {
         int N = 5;
 
