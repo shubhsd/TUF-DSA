@@ -2,7 +2,6 @@
 class Pattern8 {
     // Function to print pattern8
     public static void pattern8(int n) {
-        
         // Outer loop which will loop for the rows.
         for (int i = 0; i < n; i++) {
             
