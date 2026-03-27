@@ -4,7 +4,6 @@ class Pattern8 {
     public static void pattern8(int n) {
         // Outer loop which will loop for the rows.
         for (int i = 0; i < n; i++) {
-            
             //This loop will print the spaces
             for(int j = 0; j < i; j++){
                 System.out.print(" ");
