@@ -12,7 +12,6 @@ class Pattern8 {
             for (int j = 0; j < 2*n-(2*i+1); j++) {
                 System.out.print("*");
             }
-            
             /* As soon as stars for each iteration are printed,
              move to the next row and give a line break */
             System.out.println();
