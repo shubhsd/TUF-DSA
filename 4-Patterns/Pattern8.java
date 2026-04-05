@@ -20,7 +20,6 @@ class Pattern8 {
 
     public static void main(String[] args) {
         int N = 5;
-
         // Create an instance of Solution class
         Pattern8 sol = new Pattern8();
         sol.pattern8(N);
