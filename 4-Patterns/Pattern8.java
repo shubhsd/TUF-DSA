@@ -17,7 +17,6 @@ class Pattern8 {
             System.out.println();
         }
     }  
-      
     public static void main(String[] args) {
         int N = 5;
         // int x = 5'
